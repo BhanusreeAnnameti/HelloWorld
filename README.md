@@ -1,2 +1,2 @@
 # HelloWorld
-This my first java application.
+This is my first java application.
